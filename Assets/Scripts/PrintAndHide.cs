@@ -9,8 +9,7 @@ public class PrintAndHide : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Increment by 1
-        i++;
+        
     }
 
     // Update is called once per frame
